@@ -1,6 +1,5 @@
-tensorflow==2.11
-matplotlib
-numpy
-pandas
-cleverhans
-
+tensorflow==2.11.0
+matplotlib==3.8.4
+numpy=1.26.4
+pandas=2.2.2
+cleverhans=4.0.0-edc15c6ec93c96562523dc42ae33c9e7
